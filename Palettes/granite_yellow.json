@@ -1,0 +1,31 @@
+[
+  {
+    "type": "palette",
+    "name": "granite_yellow",
+    "palette": [
+      {
+        "char": "X",
+        "block": "rockhounding_rocks:carved_g@7",
+        "damaged": "minecraft:iron_bars"
+      },
+      {
+        "char": "$",
+        "block": "rockhounding_rocks:tiles_g@7",
+        "damaged": "minecraft:iron_bars"
+      },
+      {
+        "char": "#",
+        "blocks": [
+          {
+            "random": 450,
+            "block": "rockhounding_rocks:polished_g@7"
+          },
+          {
+            "random": 450,
+            "block": "rockhounding_rocks:shorts_g@7"
+          }        
+        ]
+	  }
+    ]
+  }
+]

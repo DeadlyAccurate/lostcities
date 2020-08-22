@@ -1,0 +1,16 @@
+[  {
+    "type": "multibuilding",
+    "name": "shopping_open",
+    "dimx": 2,
+    "dimz": 2,
+    "buildings": [
+      [
+        "shopping_open00",
+        "shopping_open01"
+      ],
+      [
+        "shopping_open10",
+        "shopping_open11"
+      ]
+    ]
+  }]

@@ -1,0 +1,23 @@
+[
+  {
+    "type": "palette",
+    "name": "concrete_gray",
+    "palette": [
+      {
+        "char": "X",
+        "block": "rockhounding_rocks:carved_concrete@8",
+        "damaged": "minecraft:iron_bars"
+      },
+      {
+        "char": "$",
+        "block": "rockhounding_rocks:pillars_concrete@8",
+        "damaged": "minecraft:iron_bars"
+      },
+      {
+        "char": "#",
+        "block": "rockhounding_rocks:polished_concrete@8",
+        "damaged": "minecraft:iron_bars"
+      }
+    ]
+  }
+]

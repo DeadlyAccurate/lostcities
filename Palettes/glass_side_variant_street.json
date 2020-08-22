@@ -1,0 +1,13 @@
+[
+  {
+    "type": "palette",
+    "name": "glass_side_variant_street",
+    "palette": [
+      {
+        "char": "@",
+        "block": "minecraft:double_stone_slab",
+        "damaged": "minecraft:iron_bars"
+      }
+    ]
+  }
+]

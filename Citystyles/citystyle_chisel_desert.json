@@ -1,0 +1,6 @@
+[  {
+    "type": "citystyle",
+    "name": "citystyle_chisel_desert",
+    "style": "desert_chisel",
+    "inherit": "citystyle_common"
+  }]

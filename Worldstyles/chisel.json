@@ -1,0 +1,23 @@
+[  {
+    "type": "worldstyle",
+    "name": "chisel",
+    "outsidestyle": "outside_chisel",
+    "citystyles": [
+      {
+        "factor": 0.5,
+        "citystyle": "citystyle_chisel_standard"
+      },
+      {
+        "factor": 9.0,
+        "biomes": [
+          "desert",
+          "desert_hills",
+          "mesa",
+          "mesa_rock",
+          "mesa_clear_rock"
+        ],
+        "citystyle": "citystyle_chisel_desert"
+      }
+    ]
+  }
+]

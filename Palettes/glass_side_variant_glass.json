@@ -1,0 +1,12 @@
+[
+  {
+    "type": "palette",
+    "name": "glass_side_variant_glass",
+    "palette": [
+      {
+        "char": "@",
+        "frompalette": "a"
+      }
+    ]
+  }
+]

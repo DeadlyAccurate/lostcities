@@ -1,0 +1,19 @@
+[  {
+    "type": "building",
+    "name": "library00",
+    "filler": "#",
+    "parts": [
+      {
+        "top": false,
+        "part": "library00_1"
+      },
+      {
+        "top": true,
+        "part": "top_library00_1"
+      },
+      {
+        "top": true,
+        "part": "top_library00_2"
+      }
+    ]
+  }]

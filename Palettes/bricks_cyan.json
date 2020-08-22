@@ -1,0 +1,23 @@
+[
+  {
+    "type": "palette",
+    "name": "bricks_cyan",
+    "palette": [
+      {
+        "char": "X",
+        "block": "rockhounding_rocks:bricks_clay@6",
+        "damaged": "minecraft:iron_bars"
+      },
+      {
+        "char": "$",
+        "block": "rockhounding_rocks:bricks_clay@6",
+        "damaged": "minecraft:iron_bars"
+      },
+      {
+        "char": "#",
+        "block": "minecraft:stained_hardened_clay@9",
+        "damaged": "minecraft:iron_bars"
+      }
+    ]
+  }
+]

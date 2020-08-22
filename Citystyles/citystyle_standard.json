@@ -1,0 +1,6 @@
+[  {
+    "type": "citystyle",
+    "name": "citystyle_standard",
+    "style": "standard",
+    "inherit": "citystyle_common"
+  }]

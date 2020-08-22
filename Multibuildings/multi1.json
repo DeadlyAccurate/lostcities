@@ -1,0 +1,18 @@
+[
+  {
+    "type": "multibuilding",
+    "name": "multi1",
+    "dimx": 2,
+    "dimz": 2,
+    "buildings": [
+      [
+        "building1",
+        "building1"
+      ],
+      [
+        "building1",
+        "building1"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "type": "palette",
+    "name": "bricks_standard",
+    "palette": [
+      {
+        "char": "X",
+        "block": "minecraft:monster_egg@2",
+        "damaged": "minecraft:iron_bars"
+      },
+      {
+        "char": "$",
+        "block": "minecraft:double_stone_slab",
+        "damaged": "minecraft:iron_bars"
+      },
+      {
+        "char": "#",
+        "blocks": [
+          {
+            "random": 9,
+            "block": "minecraft:stonebrick@2"
+          },
+          {
+            "random": 8,
+            "block": "minecraft:stonebrick@1"
+          },
+          {
+            "random": 1000,
+            "block": "minecraft:stonebrick"
+          }
+        ],
+        "damaged": "minecraft:iron_bars"
+      }
+    ]
+  }
+ ]

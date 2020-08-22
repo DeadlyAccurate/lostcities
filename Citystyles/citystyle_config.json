@@ -1,0 +1,8 @@
+[  {
+    "type": "citystyle",
+    "name": "citystyle_config",
+    "streetblocks": {
+      "width": 8
+    }
+  }
+]

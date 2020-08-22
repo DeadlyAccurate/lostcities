@@ -1,0 +1,16 @@
+[  {
+    "type": "multibuilding",
+    "name": "library",
+    "dimx": 2,
+    "dimz": 2,
+    "buildings": [
+      [
+        "library00",
+        "library01"
+      ],
+      [
+        "library10",
+        "library11"
+      ]
+    ]
+  }]

@@ -1,0 +1,23 @@
+[
+  {
+    "type": "palette",
+    "name": "trachyte_yellow",
+    "palette": [
+      {
+        "char": "X",
+        "block": "rockhounding_rocks:polished_g@12",
+        "damaged": "minecraft:iron_bars"
+      },
+      {
+        "char": "$",
+        "block": "rockhounding_rocks:slabs_g@12",
+        "damaged": "minecraft:iron_bars"
+      },
+      {
+        "char": "#",
+        "block": "rockhounding_rocks:bricks_g@12",
+        "damaged": "minecraft:iron_bars"
+      }
+    ]
+  }
+]

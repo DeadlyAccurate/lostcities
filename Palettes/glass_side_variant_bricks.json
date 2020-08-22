@@ -1,0 +1,12 @@
+[  
+ {
+    "type": "palette",
+    "name": "glass_side_variant_bricks",
+    "palette": [
+      {
+        "char": "@",
+        "frompalette": "#"
+      }
+    ]
+  }
+]

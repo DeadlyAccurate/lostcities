@@ -1,0 +1,20 @@
+[
+  {
+    "type": "palette",
+    "name": "glass_pane_light_blue",
+    "palette": [
+      {
+        "char": "+",
+        "block": "minecraft:stained_glass@3"
+      },
+      {
+        "char": "`",
+        "block": "minecraft:stained_glass_pane@3"
+      },
+      {
+        "char": "a",
+        "block": "minecraft:stained_glass_pane@3"
+      }
+    ]
+  }
+]
