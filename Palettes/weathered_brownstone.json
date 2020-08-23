@@ -1,16 +1,16 @@
 [
   {
     "type": "palette",
-    "name": "bricks_cyan",
+    "name": "weathered_brownstone",
     "palette": [
       {
         "char": "X",
-        "block": "rockhounding_rocks:bricks_clay@6",
+        "block": "chisel:brownstone@9",
         "damaged": "minecraft:iron_bars"
       },
       {
         "char": "$",
-        "block": "rockhounding_rocks:bricks_clay@6",
+        "block": "chisel:brownstone@6",
         "damaged": "minecraft:iron_bars"
       },
       {
@@ -18,11 +18,11 @@
         "blocks": [
           {
             "random": 80,
-            "block": "minecraft:stained_hardened_clay@9"
+            "block": "chisel:brownstone@1"
           },
           {
             "random": 80,
-            "block": "rockhounding_rocks:bricks_clay@6"
+            "block": "chisel:brownstone@5"
           }        
         ],
 		"damaged": "minecraft:iron_bars"

@@ -1,16 +1,16 @@
 [
   {
     "type": "palette",
-    "name": "bricks_cyan",
+    "name": "bricks_mossy_cobblestone",
     "palette": [
       {
         "char": "X",
-        "block": "rockhounding_rocks:bricks_clay@6",
+        "block": "chisel:cobblestonemossy1@6",
         "damaged": "minecraft:iron_bars"
       },
       {
         "char": "$",
-        "block": "rockhounding_rocks:bricks_clay@6",
+        "block": "chisel:cobblestonemossy1@5",
         "damaged": "minecraft:iron_bars"
       },
       {
@@ -18,14 +18,13 @@
         "blocks": [
           {
             "random": 80,
-            "block": "minecraft:stained_hardened_clay@9"
+            "block": "chisel:cobblestonemossy@10"
           },
           {
-            "random": 80,
-            "block": "rockhounding_rocks:bricks_clay@6"
+            "random": 90,
+            "block": "chisel:cobblestone@6"
           }        
-        ],
-		"damaged": "minecraft:iron_bars"
+        ]
 	  }
     ]
   }

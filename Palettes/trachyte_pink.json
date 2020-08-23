@@ -1,28 +1,28 @@
 [
   {
     "type": "palette",
-    "name": "granite_yellow",
+    "name": "trachyte_pink",
     "palette": [
       {
         "char": "X",
-        "block": "rockhounding_rocks:carved_g@7",
+        "block": "rockhounding_rocks:tiles_e@2",
         "damaged": "minecraft:iron_bars"
       },
       {
         "char": "$",
-        "block": "rockhounding_rocks:tiles_g@7",
+        "block": "rockhounding_rocks:deboss_e@2",
         "damaged": "minecraft:iron_bars"
       },
       {
         "char": "#",
         "blocks": [
           {
-            "random": 80,
-            "block": "rockhounding_rocks:polished_g@7"
+            "random": 350,
+            "block": "rockhounding_rocks:polished_e@2"
           },
           {
-            "random": 80,
-            "block": "rockhounding_rocks:polished_h@9"
+            "random": 350,
+            "block": "rockhounding_rocks:bricks_e@2"
           }        
         ]
 	  }

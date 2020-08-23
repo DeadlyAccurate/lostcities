@@ -17,6 +17,10 @@
       [
         {
           "factor": 1.0,
+          "palette": "trachyte_yellow"
+        },
+        {
+          "factor": 1.0,
           "palette": "bricks_desert"
         },
         {

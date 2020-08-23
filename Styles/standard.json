@@ -42,6 +42,18 @@
         },
         {
           "factor": 1.0,
+          "palette": "trachyte_pink"
+        },
+        {
+          "factor": 1.0,
+          "palette": "bricks_mossy_cobblestone"
+        },
+        {
+          "factor": 1.0,
+          "palette": "weathered_brownstone"
+        },
+        {
+          "factor": 1.0,
           "palette": "bricks_silver"
         }
       ],

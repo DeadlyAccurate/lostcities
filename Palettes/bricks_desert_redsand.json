@@ -20,7 +20,7 @@
             "block": "minecraft:red_sandstone"
           },
           {
-            "random": 2000,
+            "random": 500,
             "block": "minecraft:red_sandstone@2"
           }
         ],

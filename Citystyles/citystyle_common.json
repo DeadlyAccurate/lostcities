@@ -44,6 +44,10 @@
       {
         "factor": 0.3,
         "building": "building5"
+      },
+      {
+        "factor": 0.6,
+        "building": "building6"
       }
     ],
     "multibuildings": [
