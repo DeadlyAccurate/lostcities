@@ -18,11 +18,15 @@
         "blocks": [
           {
             "random": 80,
-            "block": "chisel:cobblestonemossy@10"
+            "block": "chisel:cobblestonemossy@6"
           },
           {
             "random": 90,
             "block": "chisel:cobblestone@6"
+          },        
+          {
+            "random": 90,
+            "block": "chisel:cobblestone@9"
           }        
         ]
 	  }

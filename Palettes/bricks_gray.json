@@ -15,9 +15,18 @@
       },
       {
         "char": "#",
-        "block": "minecraft:stained_hardened_clay@7",
-        "damaged": "minecraft:iron_bars"
-      }
+        "blocks": [
+          {
+            "random": 80,
+            "block": "minecraft:stained_hardened_clay@7"
+          },
+          {
+            "random": 80,
+            "block": "rockhounding_rocks:bricks_clay@8"
+          }        
+        ],
+		"damaged": "minecraft:iron_bars"
+	  }
     ]
   }
  ]

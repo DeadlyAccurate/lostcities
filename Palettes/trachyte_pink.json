@@ -10,7 +10,7 @@
       },
       {
         "char": "$",
-        "block": "rockhounding_rocks:deboss_e@2",
+        "block": "rockhounding_rocks:carved_e@2",
         "damaged": "minecraft:iron_bars"
       },
       {

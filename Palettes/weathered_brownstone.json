@@ -5,7 +5,7 @@
     "palette": [
       {
         "char": "X",
-        "block": "chisel:brownstone@9",
+        "block": "chisel:brownstone@4",
         "damaged": "minecraft:iron_bars"
       },
       {
@@ -18,11 +18,11 @@
         "blocks": [
           {
             "random": 80,
-            "block": "chisel:brownstone@1"
+            "block": "chisel:brownstone@5"
           },
           {
             "random": 80,
-            "block": "chisel:brownstone@5"
+            "block": "chisel:brownstone@7"
           }        
         ],
 		"damaged": "minecraft:iron_bars"

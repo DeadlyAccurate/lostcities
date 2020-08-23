@@ -145,11 +145,11 @@
         "char": "F",
         "blocks": [
           {
-            "random": 25,
+            "random": 1,
             "block": "minecraft:furnace"
           },
           {
-            "random": 20,
+            "random": 1,
             "block": "minecraft:crafting_table"
           },
           {
@@ -157,16 +157,124 @@
             "block": "minecraft:brewing_stand"
           },
           {
-            "random": 6,
+            "random": 1,
             "block": "minecraft:anvil"
           },
           {
-            "random": 5,
+            "random": 1,
             "block": "minecraft:cauldron"
           },
           {
             "random": 1,
             "block": "minecraft:enchanting_table"
+          },
+          {
+            "random": 10,
+            "block": "props:props@2568"
+          },
+          {
+            "random": 10,
+            "block": "cfm:table_jungle"
+          },
+          {
+            "random": 10,
+            "block": "cfm:table_stone"
+          },
+          {
+            "random": 10,
+            "block": "cfm:chair_stone"
+          },
+          {
+            "random": 10,
+            "block": "cfm:chair_spruce"
+          },
+          {
+            "random": 10,
+            "block": "cfm:table_jungle"
+          },
+          {
+            "random": 5,
+            "block": "cfm:modern_coffee_table"
+          },
+          {
+            "random": 10,
+            "block": "cfm:modern_couch@12"
+          },
+          {
+            "random": 10,
+            "block": "cfm:modern_couch@8"
+          },
+          {
+            "random": 10,
+            "block": "cfm:modern_couch@6"
+          },
+          {
+            "random": 10,
+            "block": "cfm:modern_couch@3"
+          },
+          {
+            "random": 10,
+            "block": "cfm:cabinet_kitchen@3"
+          },
+          {
+            "random": 10,
+            "block": "cfm:cabinet_kitchen@4"
+          },
+          {
+            "random": 10,
+            "block": "cfm:cabinet_kitchen@5"
+          },
+          {
+            "random": 10,
+            "block": "cfm:desk_granite"
+          },
+          {
+            "random": 10,
+            "block": "cfm:desk_dark_oak"
+          },
+          {
+            "random": 10,
+            "block": "cfm:desk_acacia"
+          },
+          {
+            "random": 10,
+            "block": "cfm:desk_stone"
+          },
+          {
+            "random": 10,
+            "block": "cfm:desk_birch"
+          },
+          {
+            "random": 10,
+            "block": "cfm:desk_oak"
+          },
+          {
+            "random": 10,
+            "block": "cfm:esky@5"
+          },
+          {
+            "random": 10,
+            "block": "cfm:esky@3"
+          },
+          {
+            "random": 10,
+            "block": "cfm:esky@2"
+          },
+          {
+            "random": 10,
+            "block": "zawa:barrel"
+          },
+          {
+            "random": 10,
+            "block": "cfm:bin"
+          },
+          {
+            "random": 1,
+            "block": "harvestcraft:market"
+          },
+          {
+            "random": 1,
+            "block": "cfm:computer"
           },
           {
             "random": 1000,
