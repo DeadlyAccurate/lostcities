@@ -114,7 +114,7 @@
 			},
 			{
 				"char": "w",
-				"block": "minecraft:cobblestone_wall"
+				"block": "rockhounding_rocks:walls_a@0"
 			},
 			{
 				"char": ":",

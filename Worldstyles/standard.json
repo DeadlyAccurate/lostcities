@@ -5,7 +5,7 @@
     "citystyles": [
       {
         "factor": 0.5,
-        "citystyle": "citystyle_common"
+        "citystyle": "citystyle_standard"
       },
       {
         "factor": 9.0,

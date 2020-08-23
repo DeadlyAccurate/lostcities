@@ -5,7 +5,7 @@
     "palette": [
       {
         "char": "X",
-        "block": "minecraft:monster_egg@2",
+        "block": "minecraft:stonebrick@2",
         "damaged": "minecraft:iron_bars"
       },
       {
